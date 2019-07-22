@@ -1,0 +1,2 @@
+#  Bu dizin içinde yeni bir virtual venv klasörü ve local interpriter oluşturur 
+virtualenv venv --python=python 
