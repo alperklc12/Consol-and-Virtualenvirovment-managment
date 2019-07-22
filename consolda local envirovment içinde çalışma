@@ -1,0 +1,3 @@
+#  Çalışılacak venv klasörünün bulunduğu dizine gel,
+#  .\venv\scripts\activate.bat  dosyasını çalıştır
+# local virtual venv interpreter üzerinde çalışacaksın artık
