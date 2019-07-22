@@ -1,2 +1,3 @@
 pip freeze  #  local virtual envirovment içindeki yüklenmiş paketleri gösterir
 pip freeze > data.txt #  local virtual envirovment içindeki yüklenmiş paketleri gösterir data.txt dosyası içinde saklar
+pip install -r data.txt  #  dosyadaki paketleri yükler
