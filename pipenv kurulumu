@@ -1,0 +1,2 @@
+# cmd satırında kurmak isteğin klasöre gel
+pipenv --python=python  kodu gir
