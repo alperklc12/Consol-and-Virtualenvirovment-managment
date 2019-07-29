@@ -3,6 +3,6 @@ pipenv --python=python  kodu gir
 
 kendi kendine oluşan virtualenv klasörüne gel " klasöradı\script\activate.bat " 
 kodu ile local envirovment ve interpriterdean çalış ve buraya paketleri yükle,
-çıkmak içinde deactivate.bat yaz
+çıkmak içinde deactivate yaz ve çık
 
 
