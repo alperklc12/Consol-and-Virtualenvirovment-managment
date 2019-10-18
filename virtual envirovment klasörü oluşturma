@@ -1,2 +1,3 @@
 #  Bu dizin içinde yeni bir virtual venv klasörü ve local interpriter oluşturur 
+pip install virtualenv
 virtualenv venv --python=python 
