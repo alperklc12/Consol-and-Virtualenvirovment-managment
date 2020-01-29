@@ -1,3 +1,3 @@
 #  Bu dizin içinde yeni bir virtual venv klasörü ve local interpriter oluşturur 
-pip install virtualenv
-virtualenv venv --python=python 
+eger 'virtualenv' yüklü değil ise 'pip install virtualenv'
+venv adında yeni bir sanalortam oluştur 'virtualenv venv --python=python'
