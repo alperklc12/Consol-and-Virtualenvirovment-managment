@@ -6,4 +6,7 @@ kendi kendine oluşan virtualenv klasörüne gel " klasöradı\script\activate.b
 kodu ile local envirovment ve interpriterdean çalış ve buraya paketleri yükle,
 çıkmak içinde deactivate yaz ve çık
 
+pipenv install mysql-connector-python
+
+
 
