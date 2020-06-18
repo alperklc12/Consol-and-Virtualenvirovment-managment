@@ -1,4 +1,5 @@
 # cmd satırında kurmak isteğin klasöre gel
+pip install pipenv
 pipenv --python=python  kodu gir
 
 kendi kendine oluşan virtualenv klasörüne gel " klasöradı\script\activate.bat " 
