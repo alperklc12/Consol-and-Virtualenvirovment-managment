@@ -1,3 +1,4 @@
 #  Bu dizin içinde yeni bir virtual venv klasörü ve local interpriter oluşturur 
 eger 'virtualenv' yüklü değil ise 'pip install virtualenv'
 venv adında yeni bir sanalortam oluştur 'virtualenv venv --python=python'
+source venv/Scripts/activate #bash scripte bu koda geçiş yap
