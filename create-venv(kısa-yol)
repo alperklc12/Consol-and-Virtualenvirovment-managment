@@ -1,2 +1,5 @@
 # consolda venv kurmak istedğin klasöre gel
-# consoldan python -m venv venv kodunu gir
+# consoldan 'python -m venv venv' kodunu gir
+# venv/script klasörüne geç ve 'activate.bat' dosyasını çalıştır ve venv üzerinden çalışmaya başla
+# 'cd ../../' komutu iki yukarıdaki proje klasörüne geri dön
+# pip list ile 3 parti modüleri görebilirsin
